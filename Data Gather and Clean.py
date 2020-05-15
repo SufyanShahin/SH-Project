@@ -5,6 +5,7 @@ import pandas as pd
 import spotipy as sp
 from spotipy.oauth2 import SpotifyClientCredentials
 
+
 # In[2]:
 # Spotify Credentials
 SPOTIFY_CLIENT_ID='Client_ID'
